@@ -1,0 +1,7 @@
+{
+  "name": "PaleoclimaDatav2",
+  "description": "A Progressive Web App (PWA) to collect data offline and sync it with Firebase Firestore when an internet connection is available. It uses IndexedDB for local storage and supports anonymous authentication.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
